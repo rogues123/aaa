@@ -1,0 +1,4 @@
+﻿wait 50 seconds
+send /login şifreniz
+wait 50 seconds
+send /skyblock
